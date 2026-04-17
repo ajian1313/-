@@ -1,0 +1,10 @@
+{
+  "name": "mine-monitor",
+  "version": "1.0.0",
+  "description": "矿洞安全监控系统 - Rust + Electron",
+  "scripts": {
+    "backend": "cd backend && cargo run",
+    "frontend": "cd frontend && npm start",
+    "install:frontend": "cd frontend && npm install"
+  }
+}
